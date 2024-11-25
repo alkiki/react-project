@@ -60,7 +60,7 @@ const App = () => {
         />
 
         {/* Showcase Page */}
-        <Route path="/jobs" element={<ShowcasePage />} />
+        <Route path="/showcase" element={<ShowcasePage />} />
 
         {/* Profile Page */}
         <Route path="/profile" element={<ProfilePage />} />
