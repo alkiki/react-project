@@ -1,0 +1,262 @@
+{
+  "creatives": [
+    {
+      "id": "1",
+      "name": "Mia Thompson",
+      "course": "BA (Hons) Interaction Design Arts",
+      "bio": "I'm a designer passionate about blending technology and human interaction. I focus on creating immersive experiences that make tech more intuitive and accessible. My goal is to design interfaces that are both functional and creatively engaging.",
+      "experienceLevel": "3rd Year Student",
+      "location": "London, UK",
+      "email": "Mia.Thompson@arts.ac.uk"
+    },
+    {
+      "id": "2",
+      "name": "Mia Martini",
+      "course": "BA (Hons) Interaction Design Arts",
+      "bio": "I'm a designer passionate about blending technology and human interaction. I focus on creating immersive experiences that make tech more intuitive and accessible. My goal is to design interfaces that are both functional and creatively engaging.",
+      "experienceLevel": "3rd Year Student",
+      "location": "London, UK",
+      "email": "Mia.Martini@arts.ac.uk"
+    },
+    {
+      "id": "3",
+      "name": "James Hill",
+      "course": "BA (Hons) Graphic Design",
+      "bio": "Specializing in typography and branding, I create designs that bring stories to life. I enjoy exploring the intersection of traditional print design and digital mediums.",
+      "experienceLevel": "2nd Year Student",
+      "location": "Brighton, UK",
+      "email": "James.Hill@arts.ac.uk"
+    },
+    {
+      "id": "4",
+      "name": "Sophia Lee",
+      "course": "BA (Hons) Fine Art",
+      "bio": "A mixed-media artist passionate about exploring themes of identity and cultural heritage. My work combines painting, sculpture, and digital installations.",
+      "experienceLevel": "Final Year Student",
+      "location": "London, UK",
+      "email": "Sophia.Lee@arts.ac.uk"
+    },
+    {
+      "id": "5",
+      "name": "Amara Patel",
+      "course": "MA (Hons) Interaction Design Arts",
+      "bio": "My work focuses on designing accessible technology solutions for underrepresented communities. I aim to make technology more inclusive and sustainable.",
+      "experienceLevel": "Graduate Student",
+      "location": "Birmingham, UK",
+      "email": "Amara.Patel@arts.ac.uk"
+    },
+    {
+      "id": "6",
+      "name": "Derek Chen",
+      "course": "BA (Hons) Film Production",
+      "bio": "I’m a filmmaker and cinematographer with a passion for storytelling through visuals. I enjoy creating immersive worlds that resonate emotionally with audiences.",
+      "experienceLevel": "3rd Year Student",
+      "location": "Manchester, UK",
+      "email": "Derek.Chen@arts.ac.uk"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "position": "Junior Graphic Designer (Freelance)",
+      "workTime": "Flexible, approx. 10-15 hours per week",
+      "description": "I’m looking for a creative and enthusiastic graphic designer to assist with a personal branding project. The role involves creating logo concepts, social media graphics, and marketing materials. The ideal candidate will have strong skills in Adobe Creative Suite and a passion for design. You’ll be working closely with me to bring a fresh vision to life, so a collaborative attitude is a must!",
+      "paymentType": "Paid",
+      "location": "Remote but based in London",
+      "name": "Mia Martini",
+      "course": "BA (Hons) Interaction Design Arts",
+      "experienceLevel": "3rd Year Student",
+      "email": "Mia.Martini@arts.ac.uk"
+    },
+    {
+      "id": "2",
+      "position": "Motion Graphics Animator",
+      "workTime": "20 hours a week",
+      "description": "Looking for a motion graphics artist to create engaging animations for an advertising campaign. Proficiency in After Effects is required.",
+      "paymentType": "Paid",
+      "location": "Remote",
+      "name": "Sophia Lee",
+      "course": "BA (Hons) Fine Art",
+      "experienceLevel": "Final Year Student",
+      "email": "Sophia.Lee@arts.ac.uk"
+    },
+    {
+      "id": "3",
+      "position": "UX Design Intern",
+      "workTime": "Part-time, 3 months",
+      "description": "Assist in designing user interfaces for a tech startup. You'll be involved in user research, wireframing, and prototyping. Experience with Figma is a plus.",
+      "paymentType": "Unpaid",
+      "location": "London, UK",
+      "name": "Amara Patel",
+      "course": "MA (Hons) Interaction Design Arts",
+      "experienceLevel": "Graduate Student",
+      "email": "Amara.Patel@arts.ac.uk"
+    },
+    {
+      "id": "4",
+      "position": "Photographer Assistant",
+      "workTime": "10-20 hours a week",
+      "description": "Looking for someone to assist with photo shoots and post-processing. Experience in Adobe Lightroom is desirable.",
+      "paymentType": "Paid",
+      "location": "Brighton, UK",
+      "name": "James Hill",
+      "course": "BA (Hons) Graphic Design",
+      "experienceLevel": "2nd Year Student",
+      "email": "James.Hill@arts.ac.uk"
+    },
+    {
+      "id": "5",
+      "position": "Sound Designer for Short Film",
+      "workTime": "Flexible",
+      "description": "Seeking a sound designer to collaborate on a short indie film. You'll be responsible for sound effects, mixing, and mastering.",
+      "paymentType": "Unpaid",
+      "location": "Remote",
+      "name": "Derek Chen",
+      "course": "BA (Hons) Film Production",
+      "experienceLevel": "3rd Year Student",
+      "email": "Derek.Chen@arts.ac.uk"
+    },
+    {
+      "id": "6",
+      "position": "Event Branding Designer",
+      "workTime": "1-month project",
+      "description": "Looking for a graphic designer to create branding materials for an upcoming charity event. A quick turnaround is required.",
+      "paymentType": "Paid",
+      "location": "London, UK",
+      "name": "Mia Thompson",
+      "course": "BA (Hons) Interaction Design Arts",
+      "experienceLevel": "3rd Year Student",
+      "email": "Mia.Thompson@arts.ac.uk"
+    }
+  ],
+  "collabs": [
+    {
+      "id": "1",
+      "name": "Matt Tomas",
+      "specialty": "Interaction Design Arts (Graphic & Web Design, UX/UI)",
+      "collabType": "Collaborative project to create an immersive experience that combines interactive design, sound art, and web narrative storytelling",
+      "numberOfCollaborators": "3-4 students from different fields (e.g., Sound Design, Fine Art, Programming, Film Production)",
+      "location": "London",
+      "course": "BA (Hons) Interaction Design Arts",
+      "experienceLevel": "2nd Year Student",
+      "email": "Matt.Tomas@arts.ac.uk"
+    },
+    {
+      "id": "2",
+      "name": "Ella Morrison",
+      "specialty": "Textile Art & Surface Design",
+      "collabType": "Exploring wearable tech and interactive textiles for art installations.",
+      "numberOfCollaborators": "2 students (Textile Design & Programming)",
+      "location": "London",
+      "course": "BA (Hons) Textile Design",
+      "experienceLevel": "3rd Year Student",
+      "email": "Ella.Morrison@arts.ac.uk"
+    },
+    {
+      "id": "3",
+      "name": "Tommy Ray",
+      "specialty": "Photography & Film Production",
+      "collabType": "A collaborative film project focusing on urban landscapes.",
+      "numberOfCollaborators": "5-6 students (Film, Fine Art, and Music)",
+      "location": "London",
+      "course": "BA (Hons) Film Production",
+      "experienceLevel": "Final Year Student",
+      "email": "Tommy.Ray@arts.ac.uk"
+    },
+    {
+      "id": "4",
+      "name": "Alex Cooper",
+      "specialty": "3D Modelling & Animation",
+      "collabType": "Creating a VR environment for storytelling.",
+      "numberOfCollaborators": "3 students (Animation, Game Design, and Sound Design)",
+      "location": "Remote",
+      "course": "MA (Hons) Animation Arts",
+      "experienceLevel": "Graduate Student",
+      "email": "Alex.Cooper@arts.ac.uk"
+    },
+    {
+      "id": "5",
+      "name": "Lily Khan",
+      "specialty": "Set Design & Lighting",
+      "collabType": "Designing an interactive theatre performance set.",
+      "numberOfCollaborators": "4 students (Set Design, Performance, and Digital Media)",
+      "location": "London",
+      "course": "BA (Hons) Theatre Design",
+      "experienceLevel": "2nd Year Student",
+      "email": "Lily.Khan@arts.ac.uk"
+    },
+    {
+      "id": "6",
+      "name": "Harry James",
+      "specialty": "Creative Coding",
+      "collabType": "Developing a data visualization for climate change awareness.",
+      "numberOfCollaborators": "3 students (Data Science, Design, and Programming)",
+      "location": "London",
+      "course": "MA (Hons) Creative Computing",
+      "experienceLevel": "Graduate Student",
+      "email": "Harry.James@arts.ac.uk"
+    }
+  ],
+  "learnings": [
+    {
+      "id": "1",
+      "name": "Olivia Martinez",
+      "course": "BA (Hons) Fine Art",
+      "experienceLevel": "Alumni",
+      "skill": "Learning French to expand my cultural and creative understanding for future collaborations.",
+      "status": "Beginner",
+      "location": "London, UK",
+      "email": "Olivia.Martinez@arts.ac.uk"
+    },
+    {
+      "id": "2",
+      "name": "Sophia Green",
+      "course": "BA (Hons) Photography",
+      "experienceLevel": "2nd Year Student",
+      "skill": "Mastering Adobe Lightroom for professional photo editing.",
+      "status": "Intermediate",
+      "location": "Manchester, UK",
+      "email": "Sophia.Green@arts.ac.uk"
+    },
+    {
+      "id": "3",
+      "name": "Jake Fisher",
+      "course": "BA (Hons) Interaction Design",
+      "experienceLevel": "3rd Year Student",
+      "skill": "Exploring VR development with Unity for interactive experiences.",
+      "status": "Beginner",
+      "location": "London, UK",
+      "email": "Jake.Fisher@arts.ac.uk"
+    },
+    {
+      "id": "4",
+      "name": "Nina Patel",
+      "course": "MA (Hons) Animation Arts",
+      "experienceLevel": "Graduate Student",
+      "skill": "Learning Blender to expand my 3D animation toolkit.",
+      "status": "Advanced",
+      "location": "Remote",
+      "email": "Nina.Patel@arts.ac.uk"
+    },
+    {
+      "id": "5",
+      "name": "Dylan Rivera",
+      "course": "BA (Hons) Music Production",
+      "experienceLevel": "Final Year Student",
+      "skill": "Experimenting with modular synthesizers for sound design.",
+      "status": "Intermediate",
+      "location": "Birmingham, UK",
+      "email": "Dylan.Rivera@arts.ac.uk"
+    },
+    {
+      "id": "6",
+      "name": "Emma Brown",
+      "course": "BA (Hons) Textile Design",
+      "experienceLevel": "1st Year Student",
+      "skill": "Exploring natural dyeing techniques for sustainable textiles.",
+      "status": "Beginner",
+      "location": "Brighton, UK",
+      "email": "Emma.Brown@arts.ac.uk"
+    }
+  ]
+}
